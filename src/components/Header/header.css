@@ -1,0 +1,10 @@
+.header{
+    text-align: center;
+    background-color: teal;
+    margin-bottom: 10px;
+}
+.company_name{
+    margin: 0;
+    padding: 20px 0;
+    color: #fff;
+}

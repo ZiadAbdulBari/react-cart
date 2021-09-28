@@ -1,0 +1,102 @@
+ [
+  {
+    "key": 0,
+    "brand": "Samsung",
+    "model": "Galaxy F22",
+    "resolution": "HD+ 720 x 1600 pixels (274 ppi)",
+    "ram": "6 GB",
+    "processor": "Octa core, up to 2.0 GHz",
+    "img": "https://www.91-cdn.com/hub/wp-content/uploads/2021/06/samsung-galaxy-f22-specs-image-feat.jpg",
+    "price": "19499"
+  },
+  {
+    "key": 1,
+    "brand": "Samsung",
+    "model": "Galaxy M12",
+    "resolution": "HD+ 720 x 1600 pixels (270 ppi)",
+    "ram": "6 GB",
+    "processor": "Octa core, up to 2.0 GHz",
+    "img": "https://www.mobiledokan.com/wp-content/uploads/2021/04/Samsung-Galaxy-M12-image-new.jpg",
+    "price": "17499"
+  },
+  {
+    "key": 2,
+    "brand": "Apple",
+    "model": "iPhone 12 Pro Max",
+    "resolution": "Quad HD+ 1284 x 2778 pixels (458 ppi)",
+    "ram": "6 GB",
+    "processor": "Hexa-core",
+    "img": "https://cdn.dxomark.com/wp-content/uploads/medias/post-66428/iphone-12-pro-max-graphite-hero-1.jpg",
+    "price": "161999"
+  },
+  {
+    "key": 3,
+    "brand": "Apple",
+    "model": " iPhone 12 Mini",
+    "resolution": "Full HD+ 1080 x 2340 pixels (476 ppi)",
+    "ram": "6 GB",
+    "processor": "Hexa-core",
+    "img": "https://mobilemaya24.com/wp-content/uploads/2020/11/iphone-12-family-select-2020.jpg",
+    "price": "109999"
+  },
+  {
+    "key": 4,
+    "brand": "OnePlus",
+    "model": "Nord CE 5G",
+    "resolution": "Full HD+ 1080 x 2400 pixels (410 ppi)",
+    "ram": "8 GB",
+    "processor": "Octa core, up to 2.2 GHz",
+    "img": "https://www.alezay.com/wp-content/uploads/2021/06/ONEPLUS-NORD-CE-5G-CHARCOAL-INK-ALEZAY-KUWAIT-e1623950903509.jpg",
+    "price": "37990"
+  },
+  {
+    "key": 5,
+    "brand": "Xiaomi",
+    "model": "Poco M3 Pro 5G",
+    "resolution": "Full HD+ 1080 x 2400 pixels (405 ppi)",
+    "ram": "6 GB",
+    "processor": "Octa core, up to 2.2 GHz",
+    "img": "https://ifix.lv/wp-content/uploads/2021/07/XIAOMI-POCO-M3-PRO-5G-128GB-BLACK.jpg",
+    "price": "23999"
+  },
+  {
+    "key": 6,
+    "brand": "Realme",
+    "model": "Narzo 30",
+    "resolution": "Full HD+ 1080 x 2400 pixels (405 ppi)",
+    "ram": "6 GB",
+    "processor": "Octa core, up to 2.05 GHz",
+    "img": "https://images.fonearena.com/blog/wp-content/uploads/2021/05/realme-narzo-30-2.jpg",
+    "price": "19990"
+  },
+  {
+    "key": 7,
+    "brand": "Vivo",
+    "model": "Y21",
+    "resolution": "HD+ 720 x 1600 pixels (270 ppi)",
+    "ram": "4 GB",
+    "processor": "Octa core, up to 2.35 GHz",
+    "img": "https://i.gadgets360cdn.com/large/vivo_y21_1629437752265.jpg",
+    "price": "14990"
+  },
+  {
+    "key": 8,
+    "brand": "Oppo",
+    "model": "A54",
+    "resolution": "HD+ 720 x 1600 pixels (270 ppi)",
+    "ram": "6 GB",
+    "processor": "Octa core, up to 2.35 GHz",
+    "img": "https://www.mobilebd.co/wp-content/uploads/2021/02/Oppo-A54-5G-Official-image.jpg",
+    "price": "18990"
+  },
+  {
+    "key": 9,
+    "brand": "Symphony",
+    "model": "i32",
+    "resolution": "HD+ 1600 x 720 pixels (269 ppi)",
+    "ram": "1 GB",
+    "processor": "Quad-core, 1.3 GHz",
+    "img": "https://www.mobiledokan.co/wp-content/uploads/2021/03/Symphony-Z32.jpg",
+    "price": "5690"
+  }
+]

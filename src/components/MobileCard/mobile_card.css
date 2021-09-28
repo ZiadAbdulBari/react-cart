@@ -1,0 +1,19 @@
+.card_wrapper{
+    background-color:whitesmoke;
+    padding: 10px;
+    border-radius: 7px;
+}
+
+.mobile_img img{
+    height: 150px;
+    width: 200px;
+}
+.cart-btn{
+    background-color:teal;
+    padding: 5px 30px;
+    font-size: 15px;
+    border-radius: 5px;
+    border: 0px ;
+    color: white;
+    text-align: center;
+}

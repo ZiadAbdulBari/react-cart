@@ -1,0 +1,14 @@
+.body{
+    display: flex;
+}
+.all_mobile{
+    width: 80%;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-column-gap: 10px;
+    grid-row-gap: 10px;
+    margin-right: 10px;
+}
+.selected_mobile{
+    width: 20%;
+}
